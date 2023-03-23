@@ -1,0 +1,3 @@
+include Containerfile
+graft tests
+graft vcid
